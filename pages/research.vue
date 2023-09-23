@@ -18,10 +18,12 @@
   </div>
 </template>
 
-<script>
-    methods: {
-      goToPrev() {
-        this.$router.go(-1)
-      }
+<script>  
+export default {      
+  methods: {
+    goToPrev() {
+      this.$router.go(-1)
     }
+  } 
+}
   </script>
