@@ -1,8 +1,6 @@
 <template>
     <div class="container">
       <div class="content">
-        <img src="\Design Website Logo.png" alt="vue-notion" width="100px" style="border-radius: 30px;"
-        class="logo" />
       
   
         <h2>Methods of Design Research</h2>
