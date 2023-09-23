@@ -25,3 +25,13 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  head() {
+    return {
+      title: 'Design Cheatsheet - Design Resources and Theory Materials'
+    }
+  }
+}
+</script>
