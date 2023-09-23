@@ -2,6 +2,8 @@
   <div class="container">
     <div class="content">
 
+      <div @click="goToPrev()">Go Back</div>
+
       <h2>Research & Concepts</h2>
       <div class="links">
         <NuxtLink class="button--green" to="research_concepts/basic_research">Basics of Research</NuxtLink>
@@ -15,3 +17,11 @@
     </div>
   </div>
 </template>
+
+<script>
+    methods: {
+      goToPrev() {
+        this.$router.go(-1)
+      }
+    }
+  </script>
