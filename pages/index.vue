@@ -1,8 +1,6 @@
 <template>
   <div class="container">
     <div class="content">
-      <img src="../public/Design Website Logo.png" alt="vue-notion" width="100px" style="border-radius: 30px;"
-        class="logo" />
       <h1>Design Cheatsheet</h1>
       <p>Welcome to Design Cheatsheet a crowdsourced collection of design resources and theory materials for design enthusiasts and professionals alike! Delve into the rich world of design theory, from color and design psychology to typography principles, empowering you to make informed, visually captivating choices. Unleash your design potential, enhance your knowledge, and stay inspired with our ever-growing repository of resources and insights.</p>
 
