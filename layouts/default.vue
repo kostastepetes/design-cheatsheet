@@ -30,6 +30,7 @@ html {
   color: black;
   text-decoration: none;
   padding: 10px 30px;
+  cursor:pointer;
 }
 
 .button--green:hover {
@@ -41,7 +42,7 @@ html {
   display: inline-block;
   margin: 0.25em;
   border-radius: 4px;
-  border: 1px solid #35495e;
+  border: 2px solid #09488b;
   color: #35495e;
   text-decoration: none;
   padding: 10px 30px;

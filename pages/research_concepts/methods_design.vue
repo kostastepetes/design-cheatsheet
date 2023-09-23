@@ -2,7 +2,7 @@
     <div class="container">
       <div class="content">
       
-  
+        <button class="button--grey" @click="goToPrev()"> 👈 Go Back</button>
         <h2>Methods of Design Research</h2>
         <div class="links">
           <NuxtLink class="button--green" to="design_methods/user_interviews">User Interviews</NuxtLink>

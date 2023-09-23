@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="content">
-      
+      <button class="button--grey" @click="goToPrev()"> 👈 Go Back</button>
       <h2>Tools/Technologies Categories:</h2>
       <div class="links">
         <NuxtLink class="button--green" to="tools_tech/web_builder">Website Builders</NuxtLink>

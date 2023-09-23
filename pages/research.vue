@@ -2,7 +2,7 @@
   <div class="container">
     <div class="content">
 
-      <button class="button--green" @click="goToPrev()"> 👈 Go Back</button>
+      <button class="button--grey" @click="goToPrev()"> 👈 Go Back</button>
 
       <h2>Research & Concepts</h2>
       <div class="links">

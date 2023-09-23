@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <div class="content">
+      <button class="button--grey" @click="goToPrev()"> 👈 Go Back</button>
       <h2>Composition Concepts:</h2>
       <div class="links">
         <NuxtLink class="button--green" to="composition_theory/comp_basics">Basics Of Composition</NuxtLink>
