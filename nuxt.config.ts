@@ -5,4 +5,7 @@ export default defineNuxtConfig({
   },
   telemetry: false,
   // plugins: [{ src: "vue-notion/nuxt/plugin.js", mode: "client" }],
+  head: {
+    title: 'Design Cheatsheet - Design Resources and Theory Materials',
+  },
 });
