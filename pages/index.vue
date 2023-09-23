@@ -10,7 +10,7 @@
         <span> · </span>
       </h3>
 
-      <h2>Table of Contents</h2>
+      <h2>Table of Contents:</h2>
       <div class="links">
         <NuxtLink class="button--green" to="/research">📊 Research & Concepts</NuxtLink>
         <NuxtLink class="button--green" to="/composition_concepts">📏 Composition</NuxtLink>
