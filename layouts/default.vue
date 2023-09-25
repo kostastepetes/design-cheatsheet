@@ -103,4 +103,15 @@ html {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+footer {
+  position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: #bfb1b1;
+    color: #fff;
+    padding: 10px;
+}
 </style>
