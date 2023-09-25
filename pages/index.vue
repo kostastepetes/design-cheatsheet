@@ -26,6 +26,9 @@
       </div>
 
     </div>
+    <footer>Developed & Curated by 
+      <a target="_blank" href="https://kostastepetes.netlify.app/">Kostas Tepetes ⚡</a>
+    </footer>
   </div>
 </template>
 
