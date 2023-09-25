@@ -4,7 +4,7 @@
             <Title>Design Cheatsheet - Design Resources and Theory Materials</Title>
          </Head>
     <div class="content">
-      <img src="https://github.com/kostastepetes/design-cheatsheet/blob/17627c3ad77be05088ec039259af8af7d5d0a07b/public/Design%20Website%20Logo.png?raw=true" alt="design-cheatshett" width="272px"
+      <img src="https://github.com/kostastepetes/design-cheatsheet/blob/17627c3ad77be05088ec039259af8af7d5d0a07b/public/Design%20Website%20Logo.png?raw=true" alt="design-cheatshett" width="150px"
         class="logo" />
       <h1>Design Cheatsheet</h1>
       <p>Welcome to Design Cheatsheet a crowdsourced collection of design resources and theory materials for design enthusiasts and professionals alike! Delve into the rich world of design theory, from color and design psychology to typography principles, empowering you to make informed, visually captivating choices. Unleash your design potential, enhance your knowledge, and stay inspired with our ever-growing repository of resources and insights.</p>

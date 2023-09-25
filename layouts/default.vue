@@ -67,6 +67,7 @@ html {
 .logo {
   max-width: 100%;
   padding: 0.5em;
+  border-radius: 35px;
 }
 
 .nav a {
