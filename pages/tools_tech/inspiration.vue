@@ -7,7 +7,7 @@
   
   // use Notion module to get Notion blocks from the API via a Notion pageId
   const { data: blockMap } = useAsyncData("page_nuxt", () =>
-    $notion.getPageBlocks("c0afa6fd6da14c4cb3d1da4fb81cbabf")
+    $notion.getPageBlocks("ee2058463ba44500be1a03d2f3a4488c")
   );
   </script>
   
